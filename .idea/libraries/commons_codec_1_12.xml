@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-compress-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-text-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/excel-streaming-reader-2.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/h2-1.4.199.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
